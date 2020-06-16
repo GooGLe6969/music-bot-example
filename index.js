@@ -44,7 +44,7 @@ __**Commands List**__
 > \`search\` > **\`search [title]\`**
 > \`skip\`, \`stop\`,  \`pause\`, \`resume\`
 > \`nowplaying\`, \`queue\`, \`volume\``)
-            .setFooter("©️ 2020 Zealcord Development", "https://app.zealcord.xyz/assets/Logo.png");
+            .setFooter("Kitt Development Team", "https://app.zealcord.xyz/assets/Logo.png");
         msg.channel.send(helpembed);
     }
     if (command === "play" || command === "p") {
